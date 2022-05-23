@@ -1,0 +1,22 @@
+{
+  "name": "ipfs_image_uploader_with_solidity_js_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berrezougAbdelhak/ipfs_image_uploader_with_solidity_JS_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berrezougAbdelhak/ipfs_image_uploader_with_solidity_JS_React/issues"
+  },
+  "homepage": "https://github.com/berrezougAbdelhak/ipfs_image_uploader_with_solidity_JS_React#readme",
+  "dependencies": {
+    "solc": "^0.8.14-fixed"
+  }
+}
